@@ -1,0 +1,1 @@
+const goblin=document.getElementById("goblin");

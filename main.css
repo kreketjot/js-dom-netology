@@ -1,1 +1,1 @@
-body{color:#999}
+#goblin{height:100px;width:100px}#grid{grid-gap:5px;display:grid;grid-template-columns:repeat(4,120px);grid-template-rows:repeat(4,120px)}.grid-item{align-items:center;border:1px solid #000;border-radius:30%;display:flex;justify-content:center}
